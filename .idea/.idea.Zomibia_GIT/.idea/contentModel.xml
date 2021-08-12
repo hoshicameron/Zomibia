@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity Projects\Zomibia\Zomibia_GIT" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="FPController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="Bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Zomibia_GIT.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\hoshyar\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hoshyar\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Zomibia_GIT.-476599925.00" t="ExcludeRecursive" />
+  </component>
+</project>
