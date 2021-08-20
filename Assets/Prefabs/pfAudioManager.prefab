@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5037768827841904981
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5037768827841904987}
+  - component: {fileID: 5037768827841904986}
+  m_Layer: 0
+  m_Name: pfAudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5037768827841904987
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5037768827841904981}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5037768827841904986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5037768827841904981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2265a7c4f155f7b4fbfc9239e278f9c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shootAudioClip: {fileID: 8300000, guid: 38b450e2adcb6f542acc8c1d423bd8dc, type: 3}
+  aimAudioClip: {fileID: 8300000, guid: acaebc89b98b82142bd2b24edb6081e4, type: 3}
+  riffleReloadAmmoLeftAudioClip: {fileID: 8300000, guid: f7ce534a0633b9847910ba117e2245d1, type: 3}
+  riffleReloadOutOFAmmoAudioClip: {fileID: 8300000, guid: 5b907074256e36d41b92e89fb0790633, type: 3}
+  handGunReloadAmmoLeftAudioClip: {fileID: 8300000, guid: b0d51244fd32fc647960320540b32f66, type: 3}
+  handGunReloadOutOFAmmoAudioClip: {fileID: 8300000, guid: fee3a21f251a4914cabce25b13e7d2a8, type: 3}
+  triggerAudioClip: {fileID: 8300000, guid: 5bf39f73d59e9854a82992949c7de7aa, type: 3}
+  walkAudioClip: {fileID: 8300000, guid: 6597a368cd74a924eaedb0171d5b28d3, type: 3}
+  runAudioClip: {fileID: 8300000, guid: 0c58744c3b6fdd844b8348066c3f703e, type: 3}
+  jumpAudioClip: {fileID: 8300000, guid: 286d21c70c6da45ca8f00254cd221c81, type: 3}
+  landAudioClip: {fileID: 8300000, guid: 4684cd292999946fbb09865cdec50596, type: 3}
+  deathAudioClip: {fileID: 8300000, guid: 26bcc5a019e26b048852ed03fd23cf4c, type: 3}
+  explosionAudioClips:
+  - {fileID: 8300000, guid: dd0264e11df5d694fbe924abc3e80301, type: 3}
+  - {fileID: 8300000, guid: ca80aad89fdc47a4b91e62a663ebd1f0, type: 3}
+  - {fileID: 8300000, guid: 0579dc5d712b04b4291909f2dd3fd64e, type: 3}
+  - {fileID: 8300000, guid: 2cc6c6aebec9fd343aab9a4451b7e5e8, type: 3}
+  - {fileID: 8300000, guid: f51e493a8b9df094b868413e03a7d0e1, type: 3}
+  - {fileID: 8300000, guid: 37a8c4b99174fa742938356c88331c14, type: 3}
+  casingAudioClips:
+  - {fileID: 8300000, guid: 39a52c8570aa5ee4b8c76570a3eda151, type: 3}
+  - {fileID: 8300000, guid: a422bb42207b84543bfa921cf5ad09d2, type: 3}
+  - {fileID: 8300000, guid: 031057f31153d6e4da071a851d29e9e2, type: 3}
+  - {fileID: 8300000, guid: 13f0d2cf3fe7b1744ada35cb7c1e1a4b, type: 3}
+  - {fileID: 8300000, guid: 3f8b82312021c504f8a6212dddba71f3, type: 3}
+  grenadeAudioClips:
+  - {fileID: 8300000, guid: fbb85ac510521f645bc786f2af29801f, type: 3}
+  - {fileID: 8300000, guid: a640cc6972f037f4ca8f590635bb4f2a, type: 3}
+  missAudioClips:
+  - {fileID: 8300000, guid: fceb333e433c97e4497267e3c3a508c3, type: 3}
+  - {fileID: 8300000, guid: f49b461f95e0def45b1ad2a5a350e574, type: 3}
+  - {fileID: 8300000, guid: 091908a06d0b56143aaf6d3913444ab7, type: 3}
+  - {fileID: 8300000, guid: fd208dd7a0eafc84f82ad5fde72ab8fc, type: 3}
+  impactAudioClip: {fileID: 8300000, guid: 89b4957f2e6ee4740adfdccd422b9262, type: 3}
+  ammoPickupAudioClip: {fileID: 8300000, guid: 956c3b5b4f1467944a960411e6639d30, type: 3}
+  aidPickupAudioClip: {fileID: 8300000, guid: fc2fed54f8ffd654ca927dcc12907fcf, type: 3}
+  ambientAudioClip: {fileID: 0}
+  musicAudioClip: {fileID: 0}
+  ambientGroup: {fileID: 8541896218400745559, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}
+  musicGroup: {fileID: 1199713691272602766, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}
+  stingGroup: {fileID: -2408446573490641198, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}
+  playerGroup: {fileID: -2454984177604209814, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}
+  effectGroup: {fileID: -2730759737709409780, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}
+  impactGroup: {fileID: -2542196940905092146, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}

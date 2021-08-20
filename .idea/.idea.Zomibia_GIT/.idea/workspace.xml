@@ -4,9 +4,207 @@
     <list default="true" id="14045a45-a7bb-4357-99e4-db5f25036cac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Zomibia_GIT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Zomibia_GIT/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Zomibia_GIT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Zomibia_GIT/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Floor.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Floor.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample).meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Assault_Rifle_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Assault_Rifle_01/assault_rifle_01.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Assault_Rifle_01/assault_rifle_01.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01/handgun_01.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01/handgun_01.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01/handgun_01_slider.mask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Animators/Handgun_01/handgun_01_slider.mask.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Arm_Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Arm_Materials/Arms Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Arm_Materials/Arms Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Impact_Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Impact_Materials/Metal_Bullet_Hole_Particle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Impact_Materials/Metal_Bullet_Hole_Particle.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials/BulletGlowMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials/BulletGlowMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials/Bullet_Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Bullet_Materials/Bullet_Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Guns Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Guns Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Burn_Mark_Particle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Burn_Mark_Particle.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Ember_Particle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Ember_Particle.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Flame_Particle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Flame_Particle.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Metal_Bullet_Hole_Particle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Metal_Bullet_Hole_Particle.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/MuzzleFlash.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/MuzzleFlash.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Shockwave Particle Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Shockwave Particle Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Smoke_Particle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Smoke_Particle.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Smoke_SpriteSheet.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/Smoke_SpriteSheet.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/SparkParticles.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Particles/SparkParticles.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Physics_Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Physics_Materials/Grenade Physics.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Materials/Physics_Materials/Grenade Physics.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Assault_Rifle_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Assault_Rifle_01/arms_assault_rifle_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Assault_Rifle_01/arms_assault_rifle_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Handgun_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Handgun_01/arms_handgun_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Handgun_01/arms_handgun_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Materials/Arms Material.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Arms/Materials/Arms Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullet_Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullet_Prefab/ico_mesh.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullet_Prefab/ico_mesh.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet_casing.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/big_bullet_casing.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/small_bullet.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/small_bullet.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/small_bullet_casing.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Bullets_&amp;_Casings/small_bullet_casing.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades/hand_grenade.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Grenades/hand_grenade.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Assault_Rifle_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Assault_Rifle_01/assault_rifle_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Assault_Rifle_01/assault_rifle_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Handgun_01.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Handgun_01/handgun_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Guns/Handgun_01/handgun_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags/assault_rifle_01_mag_empty.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags/assault_rifle_01_mag_empty.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags/assault_rifle_01_mag_full.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Assault_Rifle_01_Mags/assault_rifle_01_mag_full.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags/handgun_01_mag_empty.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags/handgun_01_mag_empty.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags/handgun_01_mag_full.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Mags/Handgun_01_Mags/handgun_01_mag_full.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Tactical_Knife.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Tactical_Knife/tactical_knife.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Meshes/Tactical_Knife/tactical_knife.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_01.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Arm_Textures/Arm_Texture_Digital_Camo_Desert_03.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Low Poly FPS Pack Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Low Poly FPS Pack Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Burn_Mark_Particle_Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Burn_Mark_Particle_Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Ember_Particle_Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Ember_Particle_Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Flame_Particle_Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Flame_Particle_Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Metal_Bullet_Hole_Particle_Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Metal_Bullet_Hole_Particle_Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Shockwave Particle Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Shockwave Particle Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Particle_Spritesheet2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Particle_Spritesheet2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Particle_Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Particle_Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Sprite_Texture_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/Smoke_Sprite_Texture_02.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/SparksParticleTexture2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/SparksParticleTexture2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/bullet_glow_texture_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/Particles/bullet_glow_texture_bg.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/Grenade_UI_Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/Grenade_UI_Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/assault_rifle_01_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/assault_rifle_01_icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/handgun_01_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Components/Textures_&amp;_Sprites/UI/handgun_01_icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Assault_Rifle_01_Example_Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Assault_Rifle_01_Example_Prefab/Assault_Rifle_01_FPSController 1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Assault_Rifle_01_Example_Prefab/Assault_Rifle_01_FPSController 1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Assault_Rifle_01_Example_Prefab/Assault_Rifle_01_FPSController.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Assault_Rifle_01_Example_Prefab/Assault_Rifle_01_FPSController.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Handgun_01_Example_Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Handgun_01_Example_Prefab/Handgun_01_FPSController.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Arms/Handgun_01_Example_Prefab/Handgun_01_FPSController.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Bullet_Impacts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Bullet_Impacts/Metal Impact Prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Bullet_Impacts/Metal Impact Prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs/Big_Casing_Prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs/Big_Casing_Prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs/Small_Casing_Prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Casing_Prefabs/Small_Casing_Prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions/Barrel Explosion Prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions/Barrel Explosion Prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions/Explosion Prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Explosions/Explosion Prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Grenades.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Grenades/Hand_Grenade_Prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Grenades/Hand_Grenade_Prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet/Bullet_Prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Example_Prefabs/Projectiles/Bullet/Bullet_Prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet_Casing.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Big_Bullet_Casing.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Small_Bullet.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Small_Bullet.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Small_Bullet_Casing.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Bullets_&amp;_Casings/Small_Bullet_Casing.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Grenades.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Grenades/Hand_Grenade.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Grenades/Hand_Grenade.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns/Assault_Rifle_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns/Assault_Rifle_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns/Handgun_01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Guns/Handgun_01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Assault_Rifle_01_Mag_Empty.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Assault_Rifle_01_Mag_Empty.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Assault_Rifle_01_Mag_Full.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Assault_Rifle_01_Mag_Full.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Handgun_01_Mag_Empty.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Handgun_01_Mag_Empty.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Handgun_01_Mag_Full.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Mags/Handgun_01_Mag_Full.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Tactical_Knife.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Tactical_Knife/Tactical_Knife.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Low Poly FPS Pack - Free (Sample)/Prefabs/Models_Only/Tactical_Knife/Tactical_Knife.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/FPController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FPController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
@@ -18,50 +216,129 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FPController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="193" column="29" selection-start-line="193" selection-start-column="29" selection-end-line="193" selection-end-column="29" />
+            <state relative-caret-position="4539">
+              <caret line="293" column="57" selection-start-line="293" selection-start-column="57" selection-end-line="293" selection-end-column="57" />
               <folding>
-                <marker date="1629020500034" expanded="false" signature="6:115" ph="..." />
-                <marker date="1629020500034" expanded="true" signature="158:7544" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="1706:1992" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2019:2192" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2093:2186" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2229:4165" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2277:2362" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2402:2487" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2526:2575" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2615:2667" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2709:2776" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2818:2888" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2937:3952" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="2974:3181" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="3032:3166" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="3186:3942" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="3231:3468" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="3488:3925" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="3555:3707" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="3755:3907" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="4010:4159" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="4199:4488" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="4520:4615" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="4651:5053" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="5089:5839" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="5248:5335" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="5340:5426" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="5692:5833" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="5870:6094" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="6166:6691" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="6736:6908" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="6795:6902" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="6945:7015" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="7054:7540" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="7104:7160" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="7200:7255" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="7283:7393" ph="{...}" />
-                <marker date="1629020500034" expanded="true" signature="7427:7534" ph="{...}" />
+                <marker date="1629366707434" expanded="false" signature="6:115" ph="..." />
+                <marker date="1629366707434" expanded="true" signature="158:11509" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="2193:2739" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="2811:3064" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="3140:3470" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="3227:3464" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="3497:3672" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="3571:3664" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="3709:5675" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="3774:3815" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="3854:3906" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="3946:3988" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4043:4092" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4132:4184" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4226:4293" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4335:4390" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4447:5462" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4484:4691" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4542:4676" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4696:5452" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4741:4978" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="4998:5435" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="5065:5217" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="5265:5417" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="5520:5669" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="5701:5826" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="5852:5973" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="6014:6131" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="6165:6768" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="6322:6614" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="6372:6439" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="6444:6603" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="6619:6684" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="6800:6895" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="6931:7337" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="7373:8825" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="7544:7631" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="7636:7722" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="8035:8164" ph="/* Project forward and right direction on the horizontal plane (not up and down), then ... */" />
+                <marker date="1629366707434" expanded="true" signature="8678:8819" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="8856:9080" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="9152:9677" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="9722:9894" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="9781:9888" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="9931:10001" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="10040:10526" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="10090:10146" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="10186:10241" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="10269:10379" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="10413:10520" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="10575:11199" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="10651:10939" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="10822:10889" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="11012:11193" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="11251:11353" ph="{...}" />
+                <marker date="1629366707434" expanded="true" signature="11359:11507" ph="/* private void OnCollisionStay(Collision other) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ZombieController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+              <folding>
+                <marker date="1629385117573" expanded="false" signature="6:100" ph="..." />
+                <marker date="1629385117573" expanded="true" signature="147:974" ph="{...}" />
+                <marker date="1629385117573" expanded="true" signature="437:557" ph="{...}" />
+                <marker date="1629385117573" expanded="true" signature="583:666" ph="{...}" />
+                <marker date="1629385117573" expanded="true" signature="693:972" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="34" />
+              <folding>
+                <marker date="1629187075639" expanded="false" signature="6:78" ph="..." />
+                <marker date="1629187075639" expanded="true" signature="115:755" ph="{...}" />
+                <marker date="1629187075639" expanded="true" signature="218:258" ph="{...}" />
+                <marker date="1629187075639" expanded="true" signature="297:387" ph="{...}" />
+                <marker date="1629187075639" expanded="true" signature="420:455" ph="{...}" />
+                <marker date="1629187075639" expanded="true" signature="486:534" ph="{...}" />
+                <marker date="1629187075639" expanded="true" signature="573:751" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ammo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1207">
+              <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
+              <folding>
+                <marker date="1629206064686" expanded="false" signature="6:92" ph="..." />
+                <marker date="1629206064686" expanded="true" signature="127:1926" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="417:497" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="534:616" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="648:681" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="721:758" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="792:856" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="885:1077" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="1021:1071" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="1111:1692" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="1147:1252" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="1297:1495" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="1544:1686" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="1722:1766" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="1801:1842" ph="{...}" />
+                <marker date="1629206064686" expanded="true" signature="1873:1924" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -70,27 +347,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="201" column="43" selection-start-line="201" selection-start-column="43" selection-end-line="201" selection-end-column="43" />
+            <state relative-caret-position="2210">
+              <caret line="143" column="74" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="74" />
               <folding>
-                <marker date="1629018742652" expanded="false" signature="6:136" ph="..." />
-                <marker date="1629018742652" expanded="true" signature="179:6975" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="2582:4087" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="2696:2835" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="3613:3734" ph="/* Assign each audio source to its respective mixer group so that it is ... */" />
-                <marker date="1629018742652" expanded="true" signature="4127:4329" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="4368:4569" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="4610:4768" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="4810:4908" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="4952:5125" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="5174:5420" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="5462:5696" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="5576:5690" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="5748:5992" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="6041:6202" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="6242:6479" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="6519:6723" ph="{...}" />
-                <marker date="1629018742652" expanded="true" signature="6763:6967" ph="{...}" />
+                <marker date="1629188643202" expanded="false" signature="6:136" ph="..." />
+                <marker date="1629188643202" expanded="true" signature="179:8310" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="2865:4370" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="2979:3118" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="3896:4017" ph="/* Assign each audio source to its respective mixer group so that it is ... */" />
+                <marker date="1629188643202" expanded="true" signature="4410:4612" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="4651:4852" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="4893:5051" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="5094:5254" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="5296:5394" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="5446:5619" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="5671:5845" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="5894:6140" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="6182:6416" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="6296:6410" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="6468:6712" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="6761:6922" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="6962:7199" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="7239:7443" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="7483:7687" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="7733:7897" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="7941:8103" ph="{...}" />
+                <marker date="1629188643202" expanded="true" signature="8144:8302" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -110,14 +392,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ZombieController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ammo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.probuilder@5.0.3/Content/Shader/StandardVertexColor.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FPController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8F9A7EA3-47A4-4FFD-AD6C-91B550598CCD/e0/9e95f124/EventHandler.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ammo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FPController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ZombieController.cs" />
       </list>
     </option>
   </component>
@@ -128,20 +419,10 @@
     <option name="height" value="744" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="UnityExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-        <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -149,6 +430,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
@@ -192,12 +474,17 @@
       <workItem from="1628791718768" duration="3847000" />
       <workItem from="1628921691499" duration="7389000" />
       <workItem from="1628945011098" duration="6424000" />
-      <workItem from="1629009428461" duration="11012000" />
+      <workItem from="1629009428461" duration="17937000" />
+      <workItem from="1629094976018" duration="6888000" />
+      <workItem from="1629186164604" duration="16509000" />
+      <workItem from="1629268543522" duration="602000" />
+      <workItem from="1629354338383" duration="9340000" />
+      <workItem from="1629443529723" duration="591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37676000" />
+    <option name="totallyTimeSpent" value="78531000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,8 +496,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -291,76 +577,173 @@
     <entry file="file://$PROJECT_DIR$/Assets/Easy FPS/Scripts/PlayerMovementScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Easy FPS/Scripts/GunScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Easy FPS/Scripts/MouseLookScript.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8F9A7EA3-47A4-4FFD-AD6C-91B550598CCD/e0/9e95f124/EventHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="201" column="43" selection-start-line="201" selection-start-column="43" selection-end-line="201" selection-end-column="43" />
+        <state relative-caret-position="255">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.probuilder@5.0.3/Content/Shader/StandardVertexColor.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <marker date="1629018742652" expanded="false" signature="6:136" ph="..." />
-            <marker date="1629018742652" expanded="true" signature="179:6975" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="2582:4087" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="2696:2835" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="3613:3734" ph="/* Assign each audio source to its respective mixer group so that it is ... */" />
-            <marker date="1629018742652" expanded="true" signature="4127:4329" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="4368:4569" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="4610:4768" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="4810:4908" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="4952:5125" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="5174:5420" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="5462:5696" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="5576:5690" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="5748:5992" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="6041:6202" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="6242:6479" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="6519:6723" ph="{...}" />
-            <marker date="1629018742652" expanded="true" signature="6763:6967" ph="{...}" />
+            <marker date="1617893929000" expanded="true" signature="42:1696" ph="{...}" />
+            <marker date="1617893929000" expanded="true" signature="59:263" ph="{...}" />
+            <marker date="1617893929000" expanded="true" signature="278:1670" ph="{...}" />
+            <marker date="1617893929000" expanded="true" signature="353:1659" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FPController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="193" column="29" selection-start-line="193" selection-start-column="29" selection-end-line="193" selection-end-column="29" />
+        <state relative-caret-position="4539">
+          <caret line="293" column="57" selection-start-line="293" selection-start-column="57" selection-end-line="293" selection-end-column="57" />
           <folding>
-            <marker date="1629020500034" expanded="false" signature="6:115" ph="..." />
-            <marker date="1629020500034" expanded="true" signature="158:7544" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="1706:1992" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2019:2192" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2093:2186" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2229:4165" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2277:2362" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2402:2487" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2526:2575" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2615:2667" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2709:2776" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2818:2888" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2937:3952" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="2974:3181" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="3032:3166" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="3186:3942" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="3231:3468" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="3488:3925" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="3555:3707" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="3755:3907" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="4010:4159" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="4199:4488" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="4520:4615" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="4651:5053" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="5089:5839" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="5248:5335" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="5340:5426" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="5692:5833" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="5870:6094" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="6166:6691" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="6736:6908" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="6795:6902" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="6945:7015" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="7054:7540" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="7104:7160" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="7200:7255" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="7283:7393" ph="{...}" />
-            <marker date="1629020500034" expanded="true" signature="7427:7534" ph="{...}" />
+            <marker date="1629366707434" expanded="false" signature="6:115" ph="..." />
+            <marker date="1629366707434" expanded="true" signature="158:11509" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="2193:2739" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="2811:3064" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="3140:3470" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="3227:3464" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="3497:3672" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="3571:3664" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="3709:5675" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="3774:3815" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="3854:3906" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="3946:3988" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4043:4092" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4132:4184" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4226:4293" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4335:4390" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4447:5462" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4484:4691" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4542:4676" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4696:5452" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4741:4978" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="4998:5435" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="5065:5217" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="5265:5417" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="5520:5669" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="5701:5826" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="5852:5973" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="6014:6131" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="6165:6768" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="6322:6614" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="6372:6439" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="6444:6603" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="6619:6684" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="6800:6895" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="6931:7337" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="7373:8825" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="7544:7631" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="7636:7722" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="8035:8164" ph="/* Project forward and right direction on the horizontal plane (not up and down), then ... */" />
+            <marker date="1629366707434" expanded="true" signature="8678:8819" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="8856:9080" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="9152:9677" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="9722:9894" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="9781:9888" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="9931:10001" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="10040:10526" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="10090:10146" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="10186:10241" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="10269:10379" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="10413:10520" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="10575:11199" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="10651:10939" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="10822:10889" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="11012:11193" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="11251:11353" ph="{...}" />
+            <marker date="1629366707434" expanded="true" signature="11359:11507" ph="/* private void OnCollisionStay(Collision other) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <marker date="1629187075639" expanded="false" signature="6:78" ph="..." />
+            <marker date="1629187075639" expanded="true" signature="115:755" ph="{...}" />
+            <marker date="1629187075639" expanded="true" signature="218:258" ph="{...}" />
+            <marker date="1629187075639" expanded="true" signature="297:387" ph="{...}" />
+            <marker date="1629187075639" expanded="true" signature="420:455" ph="{...}" />
+            <marker date="1629187075639" expanded="true" signature="486:534" ph="{...}" />
+            <marker date="1629187075639" expanded="true" signature="573:751" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Ammo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="85" column="15" selection-start-line="85" selection-start-column="15" selection-end-line="85" selection-end-column="15" />
+          <folding>
+            <marker date="1629206064686" expanded="false" signature="6:92" ph="..." />
+            <marker date="1629206064686" expanded="true" signature="127:1926" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="417:497" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="534:616" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="648:681" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="721:758" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="792:856" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="885:1077" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="1021:1071" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="1111:1692" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="1147:1252" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="1297:1495" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="1544:1686" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="1722:1766" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="1801:1842" ph="{...}" />
+            <marker date="1629206064686" expanded="true" signature="1873:1924" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="143" column="74" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="74" />
+          <folding>
+            <marker date="1629188643202" expanded="false" signature="6:136" ph="..." />
+            <marker date="1629188643202" expanded="true" signature="179:8310" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="2865:4370" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="2979:3118" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="3896:4017" ph="/* Assign each audio source to its respective mixer group so that it is ... */" />
+            <marker date="1629188643202" expanded="true" signature="4410:4612" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="4651:4852" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="4893:5051" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="5094:5254" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="5296:5394" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="5446:5619" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="5671:5845" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="5894:6140" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="6182:6416" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="6296:6410" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="6468:6712" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="6761:6922" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="6962:7199" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="7239:7443" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="7483:7687" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="7733:7897" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="7941:8103" ph="{...}" />
+            <marker date="1629188643202" expanded="true" signature="8144:8302" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ZombieController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <marker date="1629385117573" expanded="false" signature="6:100" ph="..." />
+            <marker date="1629385117573" expanded="true" signature="147:974" ph="{...}" />
+            <marker date="1629385117573" expanded="true" signature="437:557" ph="{...}" />
+            <marker date="1629385117573" expanded="true" signature="583:666" ph="{...}" />
+            <marker date="1629385117573" expanded="true" signature="693:972" ph="{...}" />
           </folding>
         </state>
       </provider>

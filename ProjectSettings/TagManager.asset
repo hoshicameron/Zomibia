@@ -9,6 +9,9 @@ TagManager:
   - SecondCamera
   - BulletSpawn
   - Weapon
+  - Ammo
+  - Aid
+  - Lava
   layers:
   - Default
   - TransparentFX

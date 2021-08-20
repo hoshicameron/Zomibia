@@ -15,13 +15,16 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioClip riffleReloadOutOFAmmoAudioClip;
     [SerializeField] private AudioClip handGunReloadAmmoLeftAudioClip;
     [SerializeField] private AudioClip handGunReloadOutOFAmmoAudioClip;
+    [SerializeField] private AudioClip triggerAudioClip;
 
     [Header("Player Audio Clips")]
     [SerializeField] private AudioClip walkAudioClip;    //the player walk sound
     [SerializeField] private AudioClip runAudioClip;     //the player run sound
     [SerializeField] private AudioClip jumpAudioClip;     //the player jump sound
-    [SerializeField] private AudioClip landAudioClip;     //the player jump sound
+    [SerializeField] private AudioClip landAudioClip;     //the player land sound
 
+    [Header("Voices")]
+    [SerializeField] private AudioClip deathAudioClip;     //the player death voice
 
     [Header("Sting Audio Clips")]
     [SerializeField] private AudioClip[] explosionAudioClips;
@@ -29,6 +32,8 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioClip[] grenadeAudioClips;
     [SerializeField] private AudioClip[] missAudioClips;
     [SerializeField] private AudioClip impactAudioClip;
+    [SerializeField] private AudioClip ammoPickupAudioClip;
+    [SerializeField] private AudioClip aidPickupAudioClip;
 
     [Header("Ambient Audio")]
     [SerializeField] private AudioClip ambientAudioClip;
@@ -114,6 +119,15 @@ public class AudioManager : MonoBehaviour
         Instance.stingSource.Play();
     }
 
+    public static void PlayTriggerAudio()
+    {
+        if(Instance==null)
+            return;
+
+        Instance.stingSource.clip = Instance.triggerAudioClip;
+        Instance.stingSource.Play();
+    }
+
     public static void StopPlayerAudio()
     {
         if(Instance==null)
@@ -122,12 +136,20 @@ public class AudioManager : MonoBehaviour
         Instance.playerSource.Stop();
     }
 
-    public static void PlayerReloadAudio()
+    public static void PlayerReloadAmmoLeftAudio()
     {
         if(Instance==null)
             return;
 
         Instance.stingSource.clip = Instance.riffleReloadAmmoLeftAudioClip;
+        Instance.stingSource.Play();
+    }
+    public static void PlayerReloadOutOfAmmoAudio()
+    {
+        if(Instance==null)
+            return;
+
+        Instance.stingSource.clip = Instance.riffleReloadOutOFAmmoAudioClip;
         Instance.stingSource.Play();
     }
 
@@ -202,6 +224,33 @@ public class AudioManager : MonoBehaviour
         Instance.playerSource.loop = false;
         Instance.playerSource.Play();
 
+    }
+
+    public static void PlayAmmoPickupAudio()
+    {
+        if(Instance==null)
+            return;
+
+        Instance.stingSource.clip = Instance.ammoPickupAudioClip;
+        Instance.stingSource.Play();
+
+    }
+    public static void PlayAidPickupAudio()
+    {
+        if(Instance==null)
+            return;
+
+        Instance.stingSource.clip = Instance.aidPickupAudioClip;
+        Instance.stingSource.Play();
+    }
+
+    public static void PlayDeathAudio()
+    {
+        if(Instance==null)
+            return;
+
+        Instance.stingSource.clip = Instance.deathAudioClip;
+        Instance.stingSource.Play();
     }
 
 
