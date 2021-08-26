@@ -90,6 +90,13 @@ public class AudioManager : MonoBehaviour
 
     }
 
+    private void Start()
+    {
+        musicSource.clip = musicAudioClip;
+        musicSource.loop = true;
+        musicSource.Play();
+    }
+
     public static void PlayWalkAudio()
     {
         if(Instance==null)

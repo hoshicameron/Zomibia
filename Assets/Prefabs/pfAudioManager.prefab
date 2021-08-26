@@ -80,7 +80,7 @@ MonoBehaviour:
   ammoPickupAudioClip: {fileID: 8300000, guid: 956c3b5b4f1467944a960411e6639d30, type: 3}
   aidPickupAudioClip: {fileID: 8300000, guid: fc2fed54f8ffd654ca927dcc12907fcf, type: 3}
   ambientAudioClip: {fileID: 0}
-  musicAudioClip: {fileID: 0}
+  musicAudioClip: {fileID: 8300000, guid: 14bac0ba91ef444deabc7528c6e5e418, type: 3}
   ambientGroup: {fileID: 8541896218400745559, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}
   musicGroup: {fileID: 1199713691272602766, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}
   stingGroup: {fileID: -2408446573490641198, guid: 6981b22f2a6c3c047b0d283f0928c561, type: 2}

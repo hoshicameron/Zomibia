@@ -12,6 +12,8 @@ TagManager:
   - Ammo
   - Aid
   - Lava
+  - Zombie
+  - Ragdoll
   layers:
   - Default
   - TransparentFX

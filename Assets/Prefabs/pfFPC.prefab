@@ -129,8 +129,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4aff46f95e96594cbe36b4dc3cf9fd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 0.1
-  sprintSpeed: 0.3
+  walkSpeed: 5
+  sprintSpeed: 15
   jumpForce: 300
   xSensitivity: 2
   ySensitivity: 2
@@ -139,7 +139,9 @@ MonoBehaviour:
   timeBetweenShoots: 0.1
   reloadTimerOutOfBullet: 3
   reloadTimerBulletLeft: 2
-  forceMode: 0
+  meleeAttackTimer: 1
+  shotDirection: {fileID: 5052560370251683393}
+  velocityThreshold: 3
 --- !u!114 &259079071
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -166,7 +168,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   magazineMaxAmmoCapacity: 20
-  maxAmmo: 30
+  maxAmmo: 300
   ammo: 50
   magazine: 0
 --- !u!1 &1852169745113923406
@@ -5181,7 +5183,6 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 294f8fd558aa0d1488d4997453398cf0, type: 2}
   - {fileID: 2100000, guid: 294f8fd558aa0d1488d4997453398cf0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -11557,7 +11558,6 @@ ParticleSystemRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: b0ea9aa64da8c76498ef3b008d0cca1b, type: 2}
-  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

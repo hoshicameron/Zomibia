@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.U2D;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class FPController : MonoBehaviour
 {
@@ -20,12 +21,18 @@ public class FPController : MonoBehaviour
     [SerializeField] private float timeBetweenShoots = 1.0f;
     [SerializeField] private float reloadTimerOutOfBullet;
     [SerializeField] private float reloadTimerBulletLeft;
+    [SerializeField] private float meleeAttackTimer;
 
-    public ForceMode forceMode;
+    [SerializeField] private Transform shotDirection;
+    [SerializeField] private GameObject bloodPrefab;
+
+
+
 
     private float minimumX = -90;
     private float maximumX = 90;
     private float shootTime;
+
 
     private float hMove, vMove;
     private float originalFOV;
@@ -36,6 +43,9 @@ public class FPController : MonoBehaviour
     private bool isShooting = false;
     private bool isReloading=false;
     private bool isAiming=false;
+    private bool isFalling=false;
+    private bool isMelee=false;
+
     private Quaternion cameraRot;
     private Quaternion characterRot;
 
@@ -57,6 +67,9 @@ public class FPController : MonoBehaviour
     private static readonly int ReloadOutOfAmmo = Animator.StringToHash("reloadOutOfAmmo");
 
     private IEnumerator reloadCoroutine;
+    private IEnumerator meleeRoutine;
+    [SerializeField] private float velocityThreshold;
+
 
     private void Start()
     {
@@ -72,6 +85,14 @@ public class FPController : MonoBehaviour
 
         ammo.OnMagazineReloaded_NotFull+=AmmoOnMagazineReloadedNotFull;
         ammo.OnMagazineReload_Full+=Ammo_OnMagazineReloadFull;
+
+        health.OnDied+=Health_OnDied;
+    }
+
+    private void Health_OnDied(object sender, EventArgs e)
+    {
+         GameStats.gameOver = true;
+         AudioManager.PlayDeathAudio();
     }
 
     private void Ammo_OnMagazineReloadFull(object sender, EventArgs e)
@@ -102,6 +123,8 @@ public class FPController : MonoBehaviour
 
     private void Update()
     {
+        if(GameStats.gameOver)    return;
+
         AnimationHandler();
 
         if (IsGrounded() && isJumping)
@@ -110,18 +133,30 @@ public class FPController : MonoBehaviour
             AudioManager.PlayLandAudio();
         }
 
+        if (IsGrounded() && isFalling)
+        {
+            isFalling = false;
+            AudioManager.PlayLandAudio();
+        }
+
+        if (Mathf.Abs(rigidbody.velocity.y) > velocityThreshold && !isFalling)
+        {
+            isFalling = true;
+        }
+
 
     }
 
     private void AnimationHandler()
     {
-        if (Input.GetButtonDown("Fire2") && !isReloading )
+        /*if (Input.GetButtonDown("Fire2") && !isReloading )
+        {
+
+        }*/
+
+        if (Input.GetButton("Fire2") && !isReloading && !isMelee )
         {
             AimIn();
-        }
-
-        if (Input.GetButton("Fire2"))
-        {
             isRunning = false;
 
         }
@@ -130,7 +165,7 @@ public class FPController : MonoBehaviour
             AimOut();
         }
 
-        if (Input.GetButton("Fire1") && !isReloading)
+        if (Input.GetButton("Fire1") && !isReloading && !isMelee)
         {
             ShootSequence();
         }
@@ -141,7 +176,13 @@ public class FPController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.V))
         {
+            if(isAiming)
+                AimOut();
+
             animator.SetTrigger(KnifeAttack1);
+            meleeRoutine = MeleeAttackDelay();
+            StartCoroutine(meleeRoutine);
+
         }
 
         if (Input.GetKeyDown(KeyCode.R))
@@ -161,13 +202,14 @@ public class FPController : MonoBehaviour
 
             } else
             {
-                if (isJumping)
+                if (isJumping || isFalling)
                 {
+                    AudioManager.StopPlayerAudio();
                     if(animator.GetBool(Walk))
                         animator.SetBool(Walk, false);
                     if(animator.GetBool(Run))
                         animator.SetBool(Run,false);
-                } else if(!isJumping)
+                } else if(!isJumping && !isFalling)
                 {
                     if (!animator.GetBool(Walk))
                     {
@@ -213,6 +255,13 @@ public class FPController : MonoBehaviour
         isReloading = false;
     }
 
+    IEnumerator MeleeAttackDelay()
+    {
+        isMelee = true;
+        yield return new WaitForSeconds(meleeAttackTimer);
+        isMelee = false;
+    }
+
     private void ShootSequence()
     {
         if(Time.time<shootTime)    return;
@@ -227,6 +276,7 @@ public class FPController : MonoBehaviour
             {
                 AudioManager.PlayShootAudio();
                 ammo.SpendAmmo();
+                ProcessZombieHit();
                 //AudioManager.PlayCasingAudio();
             }
 
@@ -238,8 +288,26 @@ public class FPController : MonoBehaviour
         shootTime = Time.time + timeBetweenShoots;
     }
 
+    private void ProcessZombieHit()
+    {
+        RaycastHit hitInfo;
+        if (Physics.Raycast(shotDirection.position, shotDirection.forward, out hitInfo, 200))
+        {
+            GameObject hitZombie = hitInfo.collider.gameObject;
+            if (hitZombie.CompareTag("Zombie"))
+            {
+                GameObject blood = Instantiate(bloodPrefab, hitInfo.point, Quaternion.identity);
+                blood.transform.LookAt(transform.position);
+                hitZombie.GetComponent<Health>().GetDamage(20);
+            }
+        }
+    }
+
     private void FixedUpdate()
     {
+        if(GameStats.gameOver)    return;
+
+
         RotationHandler();
         MovementHandler();
 
@@ -262,7 +330,7 @@ public class FPController : MonoBehaviour
 
     private void MovementHandler()
     {
-        if (Input.GetKey(KeyCode.LeftShift) && !isJumping && !isShooting && !isAiming) //if runninig animation need to disable while jump add !iJumping to this line
+        if (Input.GetKey(KeyCode.LeftShift) && !isJumping && !isShooting && !isAiming && !isFalling)
         {
             moveSpeed = sprintSpeed;
             isRunning = true;
@@ -291,7 +359,6 @@ public class FPController : MonoBehaviour
 
         // Set the direction's magnitude to 1 so that it does not interfere with the movement speed
         direction.Normalize();
-        print(direction * moveSpeed * Time.fixedDeltaTime);
 
         rigidbody.MovePosition(transform.position + direction * moveSpeed * Time.fixedDeltaTime);
 
@@ -374,7 +441,7 @@ public class FPController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Ammo") && ammo.CanAddAmmo())
         {
-            Debug.Log("Ammo Collected!");
+
             AudioManager.PlayAmmoPickupAudio();
             ammo.AddAmmo(100);
             if (ammo.IsMagazineEmpty())
@@ -386,7 +453,7 @@ public class FPController : MonoBehaviour
         }
         if (other.gameObject.CompareTag("Aid") && health.CanAddHealth())
         {
-            Debug.Log("Aid Collected!");
+
             AudioManager.PlayAidPickupAudio();
             health.AddHealth(20);
             Destroy(other.gameObject);
